@@ -1,0 +1,8 @@
+{
+  "name": "Felipe Araújo | Odontologia",
+  "description": "Bio site oficial de Felipe Araújo. Agendamento de consultas via WhatsApp, localização do consultório, fotos e avaliações no Google.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
